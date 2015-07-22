@@ -2,8 +2,13 @@
 body {
   padding-top: 50px;
   padding-bottom: 20px;
+  background-color: lightgray;
+}
+h2{
+	color: black;
 }
 
 .jumbotron{
 	text-align: center;
+	background-color: white;
 }
